@@ -23,3 +23,5 @@
 - DevOps
 - Software Assurance
 - Database Design
+    
+[![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-coulter)](https://github.com/anuraghazra/github-readme-stats)
