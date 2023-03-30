@@ -1,6 +1,8 @@
 <h1 align="center">Hi 👋🏻, I'm David Coulter</h1>
 <h3 align="center">A systems and software engineer senior from University of Arizona</h3>
 
+<img src="https://media.licdn.com/dms/image/C5616AQHl4rf69snr7g/profile-displaybackgroundimage-shrink_350_1400/0/1668798304279?e=1685577600&v=beta&t=7s14eQxCclJ2Ta_QELQbgRq7OJZzX94y7vxxBfKCi_Q"
+
 ## 💻Technologies
 <a href="https://www.djangoproject.com/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/django/django-plain.svg" alt="django" width="40" height="40"/> </a>
 <a href="https://www.python.org" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a>
