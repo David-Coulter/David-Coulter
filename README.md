@@ -12,9 +12,9 @@
 
 
 ## 📅 Hobbies
-- Working out
 - Spend time with my kids
-- Play videogames
+- Working out
+- Playing videogames
 
 ## 👨‍💻 Current project
 - [Predictive Water Analysis Tool](https://github.com/David-Coulter/SIE498-Predictive-Water-Analysis-Tool)
