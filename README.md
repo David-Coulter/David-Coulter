@@ -19,7 +19,7 @@
 - Playing videogames
 
 ## 👨‍💻 Current project
-- [Predictive Water Analysis Tool](https://github.com/David-Coulter/SIE498-Predictive-Water-Analysis-Tool)
+- [Predictive Water Analysis Tool (Senior Capstone)](https://github.com/David-Coulter/SIE498-Predictive-Water-Analysis-Tool)
 
 ## 📚 Learning
 - CSCV460 Database Design
