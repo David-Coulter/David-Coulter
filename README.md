@@ -27,5 +27,5 @@
 - SFWE 302 Software Architecture & Design
 - IBM DevOps and Software Engineering Professional Certificate
 
-    
+##  
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-coulter&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
