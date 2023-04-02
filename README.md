@@ -1,13 +1,3 @@
-<style>
-  h1 {
-    color: red;
-  }
-
-  h2 {
-    color: blue;
-  }
-</style>
-
 <h1> Hello, I'm David </h1>
 <a href="https://www.linkedin.com/in/david-coulter2/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width ="400" height = "350"/> <a/>
   
