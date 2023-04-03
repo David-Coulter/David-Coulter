@@ -1,5 +1,5 @@
 <h1> Hello, I'm David </h1>
-<a href="https://www.linkedin.com/in/david-coulter2/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width ="400" height = "350"/> <a/>
+<a href="https://www.linkedin.com/in/david-coulter2/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width ="400" height = "330"/> <a/>
   
 ## 🎓Student
   <a href="https://sie.engineering.arizona.edu/?gclid=CjwKCAjw5pShBhB_EiwAvmnNV0JTDraMG9h9brEokLd7TASLWxyrPacea3fFPSw9roqs007YE6KydBoC2goQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/07/Logo-University-of-Arizona.jpg" alt="uarizona" width ="100" height = "40"/> <a/>
