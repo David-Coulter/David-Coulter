@@ -14,7 +14,7 @@
 
 
 ## 📅 Hobbies
-- Spend time with my kids
+- Spending time with my kids
 - Working out
 - Playing videogames
 
