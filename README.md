@@ -1,7 +1,7 @@
 <h1> Hello, I'm David </h1>
 <a href="https://www.linkedin.com/in/david-coulter2/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width ="400" height = "330"/> <a/>
   
-## 🎓Student
+## 🎓BS in Systems Engineering
   <a href="https://sie.engineering.arizona.edu/?gclid=CjwKCAjw5pShBhB_EiwAvmnNV0JTDraMG9h9brEokLd7TASLWxyrPacea3fFPSw9roqs007YE6KydBoC2goQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/07/Logo-University-of-Arizona.jpg" alt="uarizona" width ="400" height = "160"/> <a/>
 
 ## 💻Technologies
@@ -25,12 +25,9 @@ alt="html" width="40" height="40"/></a>
 - Playing videogames
 
 ## 👨‍💻 Current project
-- [Predictive Water Analysis Tool (Senior Capstone)](https://github.com/David-Coulter/SIE498-Predictive-Water-Analysis-Tool)
+- Open to new projects
 
 ## 📚 Learning
-- CSCV460 Database Design
-- SFWE401 Software Assurance & Security
-- SFWE 302 Software Architecture & Design
 - IBM DevOps and Software Engineering Professional Certificate
 
 ##  
