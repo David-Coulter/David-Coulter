@@ -2,7 +2,7 @@
 <a href="https://www.linkedin.com/in/david-coulter2/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width ="400" height = "330"/> <a/>
 
 ## 🛰️ ISS Software Engineer @ Boeing
-  <a href="https://www.nasa.gov/international-space-station/" target="_blank" rel="noreferrer"> <img src="https://giphy.com/embed/8TtxfNs3GrZbWtbojP" alt="iss" width="480" height="270"> <a/>
+  <a href="https://www.nasa.gov/international-space-station/" target="_blank" rel="noreferrer"> <img src="https://tenor.com/NtuQ.gif" alt="iss" width="480" height="270"> <a/>
   
 ## 🎓 BS in Systems Engineering
   <a href="https://sie.engineering.arizona.edu/?gclid=CjwKCAjw5pShBhB_EiwAvmnNV0JTDraMG9h9brEokLd7TASLWxyrPacea3fFPSw9roqs007YE6KydBoC2goQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/07/Logo-University-of-Arizona.jpg" alt="uarizona" width ="400" height = "160"/> <a/>
