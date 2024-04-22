@@ -5,7 +5,7 @@
   <a href="https://www.nasa.gov/international-space-station/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/oCJwj1e5oCwAAAAC/nasa-nasa-gifs.gif" alt="iss" width ="400" height = "200"/> <a/>
   
 ## 🎓 BS in Systems Engineering
-## Currently pursuing MS in Software Engineering
+### Currently pursuing MS in Software Engineering
   <a href="https://sie.engineering.arizona.edu/?gclid=CjwKCAjw5pShBhB_EiwAvmnNV0JTDraMG9h9brEokLd7TASLWxyrPacea3fFPSw9roqs007YE6KydBoC2goQAvD_BwE" target="_blank" rel="noreferrer"> <img src="https://1000logos.net/wp-content/uploads/2017/07/Logo-University-of-Arizona.jpg" alt="uarizona" width ="400" height = "160"/> <a/>
 
 ## 💻 Technologies
