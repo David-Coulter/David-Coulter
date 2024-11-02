@@ -29,12 +29,11 @@ alt="html" width="40" height="40"/></a>
 - Playing video games
 
 ## 👨‍💻 Current project
--  [Employment Attrition Prediction Models](https://github.com/westscotty/sie533TermProject)
+-  [ChatCat the SFWE ChatBot](https://github.com/David-Coulter/Chat-Cat)
 
 ## 📚 Learning
--  SFWE 502 DevSecOps
--  SIE 533 Data Science fo Engineers
-- IBM DevOps and Software Engineering Professional Certificate
+-  SFWE 503 Software Engineering Project Management
+-  ECE 503 Probability and Random Processes for Engineering
 
 ##  
 [![David's GitHub stats](https://github-readme-stats.vercel.app/api?username=david-coulter&theme=vue-dark&show_icons=true&count_private=true)](https://github.com/anuraghazra/github-readme-stats)
