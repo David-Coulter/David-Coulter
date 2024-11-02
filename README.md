@@ -10,15 +10,18 @@
 <table>
     <tr>
         <td valign="top" style="padding: 10px;">
-            <h3>🛰️ ISS Software Engineer @ Boeing</h3>
+            <h3>🛠️ Work</h3>
+            <p>- 🛰️ ISS Software Engineer @ Boeing</p>
+            <br>
+            <br>
             <a href="https://www.nasa.gov/international-space-station/" target="_blank" rel="noreferrer">
-                <img src="https://media.tenor.com/oCJwj1e5oCwAAAAC/nasa-nasa-gifs.gif" alt="iss" width="300" height="100"/>
+                <img src="https://media.tenor.com/oCJwj1e5oCwAAAAC/nasa-nasa-gifs.gif" alt="iss" width="400" height="200"/>
             </a>
         </td>
         <td valign="top" style="padding: 10px;">
             <h3>🎓 Education</h3>
-            <p>- <strong>BS in Systems Engineering</strong></p>
-            <p>- <strong>Currently pursuing MS in Software Engineering</strong></p>
+            <p>- BS in Systems Engineering</p>
+            <p>- Currently pursuing MS in Software Engineering</p>
             <a href="https://sie.engineering.arizona.edu/" target="_blank" rel="noreferrer">
                 <img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2p5N2V2NHR2ZWl1ODNhdWd5eXVja3I5MTQ1cGxoOWJjcnJ5ZWZyYSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/S5QlmDpWx67VozeVJa/giphy.gif" alt="uarizona" width="400" height="200"/>
             </a>
@@ -43,6 +46,7 @@ alt="tensorflow" width="40" height="40"/></a>
 <a href="https://html.spec.whatwg.org/" target="_blank" rel="noreferrer"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg"
 alt="html" width="40" height="40"/></a>
 <br><br>
+<img src="https://i.giphy.com/media/v1.Y2lkPTc5MGI3NjExZmg5dDE4NXQ4a2ZkcmZ5M2U3MWVzY2VyZm95dWxzcWhiczJ3NnhuZiZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/116wwYf3ajIvrG/giphy.gif"/>
 <br><br>
 
 <table>
@@ -75,8 +79,7 @@ alt="html" width="40" height="40"/></a>
 
 <p align="center">
 <a href="https://github.com/David-Coulter">
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Coulter&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Coulter&layout=compact&langs_count=8&theme=algolia"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=David-Coulter&show_icons=true&theme=prussian&include_all_commits=true&count_private=true"/><img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=David-Coulter&layout=compact&langs_count=8&theme=prussian"/>
 </a>
 </p>
 </div>
