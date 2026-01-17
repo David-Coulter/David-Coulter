@@ -81,14 +81,15 @@
       <td valign="top" style="padding: 10px;">
         <h3>👨‍💻 Current Project</h3>
         <ul>
-          <li><a href="https://github.com/David-Coulter/Chat-Cat" target="_blank">ChatCat the SFWE ChatBot</a></li>
+          <li>Open for Projects
+          <!-- <li><a href="projectsite.com" target="_blank"> Project Name</a></li> -->
         </ul>
       </td>
       <td valign="top" style="padding: 10px;">
         <h3>📚 Learning</h3>
         <ul>
-          <li><a href="https://sie.engineering.arizona.edu/sites/sie.engineering.arizona.edu/files/SFWE-403-503-Syllabus-R1%282%29.pdf" target ="_blank">SFWE 503 Software Engineering Project Management</li>
-          <li><a href="https://ece.engineering.arizona.edu/grad-programs/courses/ECE503" target ="_blank">ECE 503 Probability and Random Processes for Engineering</li>
+          <li><a href="https://ece.engineering.arizona.edu/grad-programs/courses/SFWE507" target ="_blank">SFWE 507 Foundations of Software Engineering</li>
+          <li><a href="https://ece.engineering.arizona.edu/grad-programs/courses/ECE523" target ="_blank">ECE 523 Engineering Applications of Machine Learning and Data Analytics</li>
         </ul>
       </td>
     </tr>
