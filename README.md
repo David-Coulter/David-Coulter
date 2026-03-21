@@ -81,8 +81,7 @@
       <td valign="top" style="padding: 10px;">
         <h3>👨‍💻 Current Project</h3>
         <ul>
-          <li>Open for Projects
-          <!-- <li><a href="projectsite.com" target="_blank"> Project Name</a></li> -->
+            <li><a href="https://github.com/David-Coulter/sfwe507site" target="_blank"> SFWE 507 Semester Project - Product Development Management System</a></li>
         </ul>
       </td>
       <td valign="top" style="padding: 10px;">
