@@ -1,6 +1,6 @@
 <h1> Hello, I'm David </h1>
 <div align="center">
-<a href="https://www.linkedin.com/in/david-coulter2/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width ="400" height = "330"/> <a/>
+<a href="https://www.linkedin.com/in/david-coulter2/" target="_blank" rel="noreferrer"> <img src="https://media.tenor.com/2fXbn6Xtt0UAAAAC/software-software-development.gif" width ="400" height = "330"/> </a>
 
 [![Linkedin: David-Coulter](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white&link=https://www.linkedin.com/in/david-coulter2/)](https://www.linkedin.com/in/david-coulter2/)
 [![GitHub followers](https://img.shields.io/github/followers/David-Coulter?label=Follow&style=for-the-badge&logo=github)](https://github.com/David-Coulter)
